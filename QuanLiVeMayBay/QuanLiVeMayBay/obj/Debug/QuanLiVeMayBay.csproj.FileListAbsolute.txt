@@ -1,0 +1,22 @@
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\bin\Debug\QuanLiVeMayBay.exe.config
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\bin\Debug\QuanLiVeMayBay.exe
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\bin\Debug\QuanLiVeMayBay.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.csprojAssemblyReference.cache
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.Properties.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.csproj.GenerateResource.cache
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.csproj.CoreCompileInputs.cache
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.exe
+C:\Users\HP\AppData\Local\Temporary Projects\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.pdb
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\bin\Debug\QuanLiVeMayBay.exe.config
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\bin\Debug\QuanLiVeMayBay.exe
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\bin\Debug\QuanLiVeMayBay.pdb
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.csprojAssemblyReference.cache
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.Form1.resources
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.Login.resources
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.Properties.Resources.resources
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.csproj.GenerateResource.cache
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.csproj.CoreCompileInputs.cache
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.exe
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.pdb
+F:\XML\QuanLiVeMayBay\QuanLiVeMayBay\obj\Debug\QuanLiVeMayBay.register.resources

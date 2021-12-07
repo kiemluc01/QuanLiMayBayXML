@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<User>
+  <account>
+    <code>1</code>
+    <username>kiemluc01</username>
+    <pass>161101</pass>
+    <quyen>0</quyen>
+  </account>
+  <account>
+    <code>2</code>
+    <username>kiemlucAD</username>
+    <pass>161101</pass>
+    <quyen>1</quyen>
+  </account>
+  <account>
+    <code>3</code>
+    <username>vanthun1201</username>
+    <pass>120101</pass>
+    <quyen>0</quyen>
+  </account>
+  <account>
+    <code>4</code>
+    <username>vanthunAD</username>
+    <pass>120101</pass>
+    <quyen>1</quyen>
+  </account>
+  <account>
+    <code>5</code>
+    <name>Nguyen luc</name>
+    <username>kiemluc011</username>
+    <pass>161101</pass>
+    <quyen>0</quyen>
+  </account>
+  <account>
+    <code>6</code>
+    <name>Nguyễn Lực</name>
+    <username>kiemluc0111</username>
+    <pass>161101</pass>
+    <quyen>0</quyen>
+  </account>
+  <account>
+    <code>7</code>
+    <name>Nguyễn Lực</name>
+    <username>lucnguyen01</username>
+    <pass>161101</pass>
+    <quyen>0</quyen>
+  </account>
+</User>
